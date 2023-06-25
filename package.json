@@ -1,0 +1,15 @@
+{
+    "name": "com.valually.valually",
+    "version": "0.0.1",
+    "displayName": "Valually",
+    "description": "Ads in-game",
+    "unity": "2022.2",
+    "documentationUrl": "https://valually.com/",
+    "changelogUrl": "https://valually.com/",
+    "licensesUrl": "https://valually.com/",
+    "author": {
+      "name": "Valually",
+      "email": "valually@support.com",
+      "url": "https://valually.com"
+    }
+  }
