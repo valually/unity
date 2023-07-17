@@ -10,17 +10,11 @@ public class AdSpaceDownloader : MonoBehaviour
 	public string token;
 
 	// URL
-    [HideInInspector]
 	private string baseUrl = "http://127.0.0.1:8000";
-
-    [HideInInspector]
 	private string jsonUrl;
-
-    [HideInInspector]
 	private string downloadObjectUrl;
 
 	// OBJECT
-    [HideInInspector]
 	private AdData adData = new AdData();
 
     private void Awake()
